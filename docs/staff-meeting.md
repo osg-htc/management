@@ -92,7 +92,7 @@ of a special topic, which will be announced in advance.
 ### Upcoming Meetings
 
 -   2024-06-05 - Collaboration Support (Pascal Paschos)
--   2024-06-12 - Network Monitoring (Shawn McKee)
+-   2024-06-12 - [Network Monitoring](https://docs.google.com/presentation/d/1EHbYIxyLeEB1_APqKBYd6b8TFo1wYGQNJ_AtsA5yiLs/edit#slide=id.p1) (Shawn McKee)
 -   2024-06-19 - Cancelled (Juneteenth Holiday)
 -   2024-06-26 - **All-Staff Town Hall** (TBD)
 -   2024-07-03 - Cancelled (July 4th Holiday)
