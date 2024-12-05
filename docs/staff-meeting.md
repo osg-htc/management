@@ -94,9 +94,9 @@ of a special topic, which will be announced in advance.
 -   2024-12-11 - Machine Learning (Ian Ross)
 - ​  2024-12-18 - Pelican (Brian Bockelman)
 - ​  2024-12-25 - CANCELLED (Christmas)   
-- ​  2025-01-01 - CANCELLED (New Years)
+- ​  2025-01-01 - CANCELLED (New Year's Day)
 - ​  2025-01-08 - Campus Services (Tim Cartwright)
-- ​ ​ 2025-01-15 - Town Hall
+- ​ ​ 2025-01-15 - All-staff Town Hall
 - ​  2025-01-22 - Release (Tim Theisen)
 - ​  2025-01-29 - HTCSS (Todd Tannenbaum)
 - ​  2025-02-05 - Security (Mike Stanfield)
