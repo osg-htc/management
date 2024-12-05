@@ -91,14 +91,32 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-11-27 - Cancelled (Thanksgiving)
--   2024-12-04 - Collaboration Support (Pascal Paschos)
+-   2024-12-11 - Machine Learning (Ian Ross)
+- ​  2024-12-18 - Pelican (Brian Bockelman)
+- ​  2024-12-25 - CANCELLED (Christmas)   
+- ​  2025-01-01 - CANCELLED (New Year's Day)
+- ​  2025-01-08 - Campus Services (Tim Cartwright)
+- ​ ​ 2025-01-15 - All-staff Town Hall
+- ​  2025-01-22 - Release (Tim Theisen)
+- ​  2025-01-29 - HTCSS (Todd Tannenbaum)
+- ​  2025-02-05 - Security (Mike Stanfield)
+- ​  2025-02-12 - Town Hall
+- ​  2025-02-19 - Software (Brian Lin) 
+- ​  2025-02-26 - Network Monitoring (Shawn McKee)
+- ​  2025-03-05 - Global Infrastructure Lab (Igor Sfiligoi)
+-   2025-03-12 - Town Hall 
+-   2025-03-19 - Operations (Jeff Dost) 
+-   2025-03-26 - Research Facilitation (Christina Koch)
+-   2025-04-02 - Production & Collaboration Support (Ken Herner/Pascal Paschos)
+-   2025-04-09 - Town Hall (HTC 25 Agenda)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2024-12-04 - Collaboration Support (Pascal Paschos)
+-   2024-11-27 - Cancelled (Thanksgiving)
 -   2024-11-20 - Research Facilitation (Christina Koch)
 -   2024-11-13 - Cancelled
 -   2024-11-06 - All-Staff Town Hall (Terminology, Miron Livny)
