@@ -115,6 +115,9 @@ Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
 -   2024-12-11 - [Machine Learning](https://docs.google.com/presentation/d/1WcyHv2yzyUjGJbjtxMRj8fO0vZzOUg7I/edit#slide=id.p1) (Ian Ross)
+
+<div style="height: 0.5ex"></div>
+
 -   2024-12-04 - Collaboration Support (Pascal Paschos)
 -   2024-11-27 - Cancelled (Thanksgiving)
 -   2024-11-20 - Research Facilitation (Christina Koch)
