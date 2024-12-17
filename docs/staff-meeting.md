@@ -115,6 +115,9 @@ Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
 -   2024-12-11 - [Machine Learning](https://docs.google.com/presentation/d/1WcyHv2yzyUjGJbjtxMRj8fO0vZzOUg7I/edit#slide=id.p1) (Ian Ross)
+
+<div style="height: 0.5ex"></div>
+
 -   2024-12-04 - Collaboration Support (Pascal Paschos)
 -   2024-11-27 - Cancelled (Thanksgiving)
 -   2024-11-20 - Research Facilitation (Christina Koch)
@@ -131,14 +134,14 @@ Blank lines separate cycles of team presentations.
 -   2024-09-04 - Cancelled
 -   2024-08-28 - [Release, topical](https://docs.google.com/presentation/d/1PC5_rw6bDoSsvN7neye-mN1Mbw7cO_7dD7N3okO3uLA/) (Tim Theisen)
 -   2024-08-21 - [Campus Services, update](https://drive.google.com/file/d/1OSWvP87FlC9zZ4Dpa3d4fbdLXjI0RsNQ/) (Tim Cartwright)
-
-<div style="height: 0.5ex"></div>
-
 -   2024-08-14 - All-Staff Town Hall (?)
 -   2024-08-07 - Cancelled (OSG School)
 -   2024-07-31 - [Production Support](https://drive.google.com/file/d/1iPM7bVWjfosyizqjT-GuiwyfUCI5ViNi/view) (Ken Herner)
 -   2024-07-24 - Cancelled (PEARC24)
 -   2024-07-17 - All-Staff Town Hall (HTC 24 discussion)
+
+<div style="height: 0.5ex"></div>
+
 -   2024-07-10 - Cancelled (HTC 24)
 -   2024-07-03 - Cancelled (July 4th Holiday)
 -   2024-06-26 - [Facilitation Services](https://docs.google.com/presentation/d/19ZNuq0w84iAklai9P2iMCWjIW2so8e7cffYLAZBEa9U/) (Christina Koch)
