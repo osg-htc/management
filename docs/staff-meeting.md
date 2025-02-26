@@ -94,7 +94,7 @@ of a special topic, which will be announced in advance.
 -   2025-02-05 - Security (Mike Stanfield)
 -   2025-02-12 - Town Hall
 -   2025-02-19 - TBD
--   2025-02-26 - Network Monitoring (Shawn McKee)
+-   2025-02-26 - [Network Monitoring](https://docs.google.com/presentation/d/1FdEJY68XXyeHkoTt2Nj834xa3LrVqJjWIA4L9VS-d8c/edit?usp=sharing) (Shawn McKee)
 -   2025-03-05 - Global Infrastructure Lab (Igor Sfiligoi)
 -   2025-03-12 - Town Hall
 -   2025-03-19 - Operations (Jeff Dost)
