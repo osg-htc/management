@@ -91,10 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2025-02-05 - Security (Mike Stanfield)
--   2025-02-12 - Town Hall
--   2025-02-19 - TBD
--   2025-02-26 - [Network Monitoring](https://docs.google.com/presentation/d/1FdEJY68XXyeHkoTt2Nj834xa3LrVqJjWIA4L9VS-d8c/edit?usp=sharing) (Shawn McKee)
 -   2025-03-05 - Global Infrastructure Lab (Igor Sfiligoi)
 -   2025-03-12 - Town Hall
 -   2025-03-19 - Operations (Jeff Dost)
@@ -107,6 +103,10 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2025-02-26 - [Network Monitoring](https://docs.google.com/presentation/d/1FdEJY68XXyeHkoTt2Nj834xa3LrVqJjWIA4L9VS-d8c/edit?usp=sharing) (Shawn McKee)
+-   2025-02-19 - HTCSS (Todd Tannenbaum)
+-   2025-02-12 - Town Hall (Miron Livny)
+-   2025-02-05 - Security (Mike Stanfield)
 -   2025-01-29 - Ceph Issues (Brian Lin)
 -   2025-01-22 - CANCELLED (presenter unavailable)
 -   2025-01-15 - All-staff Town Hall (History of HTCondor, Miron Livny)
