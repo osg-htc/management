@@ -120,7 +120,7 @@ Blank lines separate cycles of team presentations.
 
 -   2024-12-04 - Collaboration Support (Pascal Paschos)
 -   2024-11-27 - Cancelled (Thanksgiving)
--   2024-11-20 - Research Facilitation (Christina Koch)
+-   2024-11-20 - [Research Facilitation](https://docs.google.com/presentation/d/1d1rhvQWnNw6aNSwuI-8FKTq9hdnG28q-Yn_76YA3YbQ/edit#slide=id.g3168df19004_0_0) (Christina Koch)
 -   2024-11-13 - Cancelled
 -   2024-11-06 - All-Staff Town Hall (Terminology, Miron Livny)
 -   2024-10-30 - Operations (Jeff Dost)
