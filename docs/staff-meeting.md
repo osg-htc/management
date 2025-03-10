@@ -92,8 +92,8 @@ of a special topic, which will be announced in advance.
 ### Upcoming Meetings
 
 -   2025-03-05 - Global Infrastructure Lab (Igor Sfiligoi)
--   2025-03-12 - Town Hall
--   2025-03-19 - Operations (Jeff Dost)
+-   2025-03-12 - Operations (Jeff Dost)
+-  25-03-19 - Town Hall
 -   2025-03-26 - Research Facilitation (Christina Koch)
 -   2025-04-02 - Production & Collaboration Support (Ken Herner/Pascal Paschos)
 -   2025-04-09 - Town Hall (HTC 25 Agenda)
