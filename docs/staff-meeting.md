@@ -102,7 +102,7 @@ Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
 -   2025-03-12 - Operations (Jeff Dost)
--   2025-03-05 - Global Infrastructure Lab (Igor Sfiligoi)
+-   2025-03-05 - [Global Infrastructure Lab](https://drive.google.com/file/d/1sWJ5VrYMlwKmImmG0gzbAKRxjt-ieW_E/view) (Igor Sfiligoi)
 -   2025-02-26 - [Network Monitoring](https://docs.google.com/presentation/d/1FdEJY68XXyeHkoTt2Nj834xa3LrVqJjWIA4L9VS-d8c/edit?usp=sharing) (Shawn McKee)
 -   2025-02-19 - HTCSS (Todd Tannenbaum)
 -   2025-02-12 - Town Hall (Miron Livny)
