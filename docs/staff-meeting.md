@@ -91,8 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2025-03-19 - Town Hall: NSF Reporting Summary (Brian Bockelman) 
--   2025-03-26 - Research Facilitation (Christina Koch)
 -   2025-04-02 - Production & Collaboration Support (Ken Herner/Pascal Paschos)
 -   2025-04-09 - Town Hall (HTC 25 Agenda)
 
@@ -102,6 +100,7 @@ Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
 -   2025-03-26 - [Research Computing Facilitation](https://docs.google.com/presentation/d/1v-Dlm7CHaw_6ahlIcgsQhEjvUWZKtCzfj-PUkZBNdxo/edit#slide=id.g3438125d37d_0_227) (Christina Koch)
+-   2025-03-19 - Town Hall: NSF Reporting Summary (Brian Bockelman) 
 -   2025-03-12 - Operations (Jeff Dost)
 -   2025-03-05 - [Global Infrastructure Lab](https://drive.google.com/file/d/1sWJ5VrYMlwKmImmG0gzbAKRxjt-ieW_E/view) (Igor Sfiligoi)
 -   2025-02-26 - [Network Monitoring](https://docs.google.com/presentation/d/1FdEJY68XXyeHkoTt2Nj834xa3LrVqJjWIA4L9VS-d8c/edit?usp=sharing) (Shawn McKee)
