@@ -91,14 +91,16 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2025-04-02 - Production & Collaboration Support (Ken Herner/Pascal Paschos)
--   2025-04-09 - Town Hall (HTC 25 Agenda)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2025-04-23 - [Release, update](https://docs.google.com/presentation/d/1zehCQSutrrdAizXSlXAn9ZD9RGzq_vgP7LiaX-lZIRQ/) (Tim Theisen)
+-   2025-04-16 - CANCELLED (Zoom Outage)
+-   2025-04-09 - Town Hall (HTC 25 Agenda)
+-   2025-04-02 - Production & Collaboration Support (Ken Herner/Pascal Paschos)
 -   2025-03-26 - [Research Computing Facilitation](https://docs.google.com/presentation/d/1v-Dlm7CHaw_6ahlIcgsQhEjvUWZKtCzfj-PUkZBNdxo/edit#slide=id.g3438125d37d_0_227) (Christina Koch)
 -   2025-03-19 - Town Hall: NSF Reporting Summary (Brian Bockelman) 
 -   2025-03-12 - Operations (Jeff Dost)
