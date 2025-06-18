@@ -97,6 +97,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2025-06-18 - [Software, update](https://docs.google.com/presentation/d/1sIkLTx95Wl1QoQduKdLXBsmb9zqCVf0rvl1g4SM5LOw/edit?usp=sharing) (Brian Lin)
 -   2025-04-30 - [Machine Learning](https://docs.google.com/presentation/d/1ALfLiB2hqwsTP9tlOHNCZtDjsERbNMP8/) (Ian Ross)
 -   2025-04-23 - [Release, update](https://docs.google.com/presentation/d/1zehCQSutrrdAizXSlXAn9ZD9RGzq_vgP7LiaX-lZIRQ/) (Tim Theisen)
 -   2025-04-16 - CANCELLED (Zoom Outage)
