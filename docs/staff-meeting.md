@@ -95,7 +95,7 @@ of a special topic, which will be announced in advance.
 -   2025-07-09 - Campus Services (Tim Cartwright)
 -   2025-07-16 - Town Hall
 -   2025-07-23 - CANCELLED (PEARC)
--   2025-07-30 - Network Monitoring (Shawn McKee)
+-   2025-07-30 - [Network Monitoring](https://docs.google.com/presentation/d/1M0dD7XEylNoYR9Ia3ljzQMelu5oCsuNy9ZQF71EuSsA/edit?usp=sharing) (Shawn McKee)
 -   2025-08-06 - Global Infrastructure (Igor Sfiligoi)
 -   2025-08-13 - Production & Collaboration Support (Ken Herner/Pascal Paschos)
 -   2025-08-20 - Town Hall
