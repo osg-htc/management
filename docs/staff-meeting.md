@@ -91,12 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2025-07-02 - HTCSS (Todd Tannenbaum)
--   2025-07-09 - Campus Services (Tim Cartwright)
--   2025-07-16 - Town Hall
--   2025-07-23 - CANCELLED (PEARC)
--   2025-07-30 - [Network Monitoring](https://docs.google.com/presentation/d/1M0dD7XEylNoYR9Ia3ljzQMelu5oCsuNy9ZQF71EuSsA/edit?usp=sharing) (Shawn McKee)
--   2025-08-06 - Global Infrastructure (Igor Sfiligoi)
 -   2025-08-13 - Production & Collaboration Support (Ken Herner/Pascal Paschos)
 -   2025-08-20 - Town Hall
 -   2025-08-27 - Security (Mike Stanfield)
@@ -104,12 +98,19 @@ of a special topic, which will be announced in advance.
 -   2025-09-10 - Research Facilitation (Christina Koch)
 -   2025-09-17 - Town Hall
 -   2025-09-24 - Release (Tim Theisen)
+-   2025-10-01 - HTCSS (Todd Tannenbaum)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2025-08-06 - Global Infrastructure (Igor Sfiligoi)
+-   2025-07-30 - [Network Monitoring](https://docs.google.com/presentation/d/1M0dD7XEylNoYR9Ia3ljzQMelu5oCsuNy9ZQF71EuSsA/edit?usp=sharing) (Shawn McKee)
+-   2025-07-23 - CANCELLED (PEARC)
+-   2025-07-16 - Town Hall
+-   2025-07-09 - Campus Services (Tim Cartwright)
+-   2025-07-02 - CANCELLED (Speaker Unavailable)
 -   2025-06-25 - CANCELLED (OSG School)
 -   2025-06-18 - [Software, update](https://docs.google.com/presentation/d/1sIkLTx95Wl1QoQduKdLXBsmb9zqCVf0rvl1g4SM5LOw/edit?usp=sharing) (Brian Lin)
 -   2025-04-30 - [Machine Learning](https://docs.google.com/presentation/d/1ALfLiB2hqwsTP9tlOHNCZtDjsERbNMP8/) (Ian Ross)
