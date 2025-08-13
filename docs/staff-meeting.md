@@ -105,7 +105,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
--   2025-08-06 - Global Infrastructure (Igor Sfiligoi)
+-   2025-08-06 - [Global Infrastructure](https://drive.google.com/file/d/1bhUFBnbP269tWv9jazm1pY2xKR_r0R78/view?usp=sharing) (Igor Sfiligoi)
 -   2025-07-30 - [Network Monitoring](https://docs.google.com/presentation/d/1M0dD7XEylNoYR9Ia3ljzQMelu5oCsuNy9ZQF71EuSsA/edit?usp=sharing) (Shawn McKee)
 -   2025-07-23 - CANCELLED (PEARC)
 -   2025-07-16 - Town Hall
