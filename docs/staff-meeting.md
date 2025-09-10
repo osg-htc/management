@@ -91,13 +91,8 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2025-08-13 - Production & Collaboration Support (Ken Herner/Pascal Paschos)
--   2025-08-20 - Town Hall
--   2025-08-27 - Security (Mike Stanfield)
--   2025-09-03 - Operations (Jeff Dost)
--   2025-09-10 - Research Facilitation (Christina Koch)
--   2025-09-17 - Town Hall
--   2025-09-24 - Release (Tim Theisen)
+-   2025-09-17 - Release (Tim Theisen)
+-   2025-09-24 - Town Hall
 -   2025-10-01 - HTCSS (Todd Tannenbaum)
 
 ### Past Meetings
@@ -105,6 +100,11 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2025-09-10 - Research Facilitation (Christina Koch)
+-   2025-09-03 - Operations (Jeff Dost)
+-   2025-08-27 - Security (Mark Krenz)
+-   2025-08-20 - Town Hall
+-   2025-08-13 - Production & Collaboration Support (Ken Herner/Pascal Paschos)
 -   2025-08-06 - [Global Infrastructure](https://drive.google.com/file/d/1bhUFBnbP269tWv9jazm1pY2xKR_r0R78/view?usp=sharing) (Igor Sfiligoi)
 -   2025-07-30 - [Network Monitoring](https://docs.google.com/presentation/d/1M0dD7XEylNoYR9Ia3ljzQMelu5oCsuNy9ZQF71EuSsA/edit?usp=sharing) (Shawn McKee)
 -   2025-07-23 - CANCELLED (PEARC)
