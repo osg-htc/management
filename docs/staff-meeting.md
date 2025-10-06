@@ -91,14 +91,16 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2025-09-24 - Town Hall
--   2025-10-01 - HTCSS (Todd Tannenbaum)
+-   2025-10-08 - Town Hall
+-   2025-10-15 - Machine Learning (Ian Ross)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2025-10-01 - HTCSS (Todd Tannenbaum)
+-   2025-09-24 - CANCELLED (PIs unavailable for Town Hall)
 -   2025-09-17 - [Release, topical](https://docs.google.com/presentation/d/1Gq4VyRnMK0DZrIjjEl8jvIo-MjZWJPnNL0jYeUJrGi0/) (Tim Theisen)
 -   2025-09-10 - [Research Facilitation](https://docs.google.com/presentation/d/1yop13ZyY8KdjdBXDE3nQnK7M06yFPu-Z5gWHMnJJ2dI/edit?slide=id.g37d5087d51a_0_22#slide=id.g37d5087d51a_0_22) (Christina Koch)
 -   2025-09-03 - Operations (Jeff Dost)
