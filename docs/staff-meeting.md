@@ -91,13 +91,15 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2025-10-08 - Town Hall
 -   2025-10-15 - Machine Learning (Ian Ross)
+-   2025-10-22 - Town Hall
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
+
+-   2025-10-08 - Town Hall
 
 -   2025-10-01 - [HTCSS](https://docs.google.com/presentation/d/1bSzsWF8eppTSP0sDx3E59Bd9JD1XMgdg/) (Todd Tannenbaum)
 -   2025-09-24 - CANCELLED (PIs unavailable for Town Hall)
