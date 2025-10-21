@@ -91,7 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2025-10-15 - Machine Learning (Ian Ross)
 -   2025-10-22 - Town Hall (Frank Q&A)
 -   2025-10-29 - Pelican (Brian Bockelman)
 -   2025-11-05 - Software (Brian Lin)
@@ -100,12 +99,12 @@ of a special topic, which will be announced in advance.
 -   2025-11-26 - Cancelled (Day Before Thansgiving)
 -   2025-12-03 - Town Hall
 -   2025-12-10 - Production & Collaboration Services (Ken Herner/Pascal Paschos)
--   2025-12-17 - Security (Mark Krenz)
+-   2025-12-17 - Research Facilitation (Christina Koch)
 -   2025-12-24 - Cancelled (Christmas Eve)
 -   2025-12-31 - Cancelled (New Year's Eve)
 -   2026-01-07 - Operations (Jeff Dost)
 -   2026-01-14 - Town Hall
--   2026-01-21 - Research Facilitation (Christina Koch)
+-   2026-01-21 - Security (Mark Krenz)
 -   2026-01-28 - Release (Tim Theisen)
 -   2026-02-04 - HTCSS (Todd Tannenbaum)
 -   2026-02-11 - Town Hall
@@ -119,6 +118,7 @@ Blank lines separate cycles of team presentations.
 
 <div style="height: 0.5ex"></div>
 
+-   2025-10-15 - Machine Learning (Ian Ross)
 -   2025-10-01 - [HTCSS](https://docs.google.com/presentation/d/1bSzsWF8eppTSP0sDx3E59Bd9JD1XMgdg/) (Todd Tannenbaum)
 -   2025-09-24 - CANCELLED (PIs unavailable for Town Hall)
 -   2025-09-17 - [Release, topical](https://docs.google.com/presentation/d/1Gq4VyRnMK0DZrIjjEl8jvIo-MjZWJPnNL0jYeUJrGi0/) (Tim Theisen)
