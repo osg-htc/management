@@ -91,8 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2025-10-22 - Town Hall (Frank Q&A)
--   2025-10-29 - Pelican (Brian Bockelman)
 -   2025-11-05 - Software (Brian Lin)
 -   2025-11-12 - Campus Services (Tim Cartwright)
 -   2025-11-19 - Network Monitoring (Shawn McKee)
@@ -114,11 +112,13 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2025-10-29 - Pelican (Brian Bockelman)
+-   2025-10-22 - Town Hall (Frank Q&A)
+-   2025-10-15 - Machine Learning (Ian Ross)
 -   2025-10-08 - Town Hall
 
 <div style="height: 0.5ex"></div>
 
--   2025-10-15 - Machine Learning (Ian Ross)
 -   2025-10-01 - [HTCSS](https://docs.google.com/presentation/d/1bSzsWF8eppTSP0sDx3E59Bd9JD1XMgdg/) (Todd Tannenbaum)
 -   2025-09-24 - CANCELLED (PIs unavailable for Town Hall)
 -   2025-09-17 - [Release, topical](https://docs.google.com/presentation/d/1Gq4VyRnMK0DZrIjjEl8jvIo-MjZWJPnNL0jYeUJrGi0/) (Tim Theisen)
