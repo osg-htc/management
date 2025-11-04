@@ -114,7 +114,7 @@ Blank lines separate cycles of team presentations.
 
 -   2025-10-29 - Pelican (Brian Bockelman)
 -   2025-10-22 - Town Hall (Frank Q&A)
--   2025-10-15 - Machine Learning (Ian Ross)
+-   2025-10-15 - [Machine Learning](https://docs.google.com/presentation/d/1iOnTw5CzllT0yp5XnBTwLJI0h3WRBT3w3HVkjSqR70Q/edit?usp=sharing) (Ian Ross)
 -   2025-10-08 - Town Hall
 
 <div style="height: 0.5ex"></div>
