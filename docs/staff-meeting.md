@@ -91,7 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2025-11-05 - [Software](https://docs.google.com/presentation/d/1-ZqwdcX7k9C3QgVlgkjIFzy1iZTPVnXh5EsPZqyHbow/edit?slide=id.p#slide=id.p) (Brian Lin)
 -   2025-11-12 - Campus Services (Tim Cartwright)
 -   2025-11-19 - Network Monitoring (Shawn McKee)
 -   2025-11-26 - Cancelled (Day Before Thansgiving)
@@ -112,6 +111,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2025-11-05 - [Software](https://docs.google.com/presentation/d/1-ZqwdcX7k9C3QgVlgkjIFzy1iZTPVnXh5EsPZqyHbow/edit?slide=id.p#slide=id.p) (Brian Lin)
 -   2025-10-29 - Pelican (Brian Bockelman)
 -   2025-10-22 - Town Hall (Frank Q&A)
 -   2025-10-15 - [Machine Learning](https://docs.google.com/presentation/d/1iOnTw5CzllT0yp5XnBTwLJI0h3WRBT3w3HVkjSqR70Q/edit?usp=sharing) (Ian Ross)
