@@ -110,7 +110,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
--   2025-11-12 - Campus Services (Tim Cartwright)
+-   2025-11-12 - [Campus Services](https://drive.google.com/file/d/1wfTOUsBbyi9XwmSkINiB2x88ROq9D-2U/view?usp=sharing) (Tim Cartwright)
 -   2025-11-05 - [Software](https://docs.google.com/presentation/d/1-ZqwdcX7k9C3QgVlgkjIFzy1iZTPVnXh5EsPZqyHbow/edit?slide=id.p#slide=id.p) (Brian Lin)
 -   2025-10-29 - Pelican (Brian Bockelman)
 -   2025-10-22 - Town Hall (Frank Q&A)
@@ -136,6 +136,9 @@ Blank lines separate cycles of team presentations.
 -   2025-06-25 - CANCELLED (OSG School)
 -   2025-06-18 - [Software, update](https://docs.google.com/presentation/d/1sIkLTx95Wl1QoQduKdLXBsmb9zqCVf0rvl1g4SM5LOw/edit?usp=sharing) (Brian Lin)
 -   2025-04-30 - [Machine Learning](https://docs.google.com/presentation/d/1ALfLiB2hqwsTP9tlOHNCZtDjsERbNMP8/) (Ian Ross)
+
+<div style="height: 0.5ex"></div>
+  
 -   2025-04-23 - [Release, update](https://docs.google.com/presentation/d/1zehCQSutrrdAizXSlXAn9ZD9RGzq_vgP7LiaX-lZIRQ/) (Tim Theisen)
 -   2025-04-16 - CANCELLED (Zoom Outage)
 -   2025-04-09 - Town Hall (HTC 25 Agenda)
