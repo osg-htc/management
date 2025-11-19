@@ -91,7 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2025-11-19 - Network Monitoring (Shawn McKee)
+-   2025-11-19 - [Network Monitoring](https://docs.google.com/presentation/d/12ma-viiaXZrd_tfuA6urN_dxow7SJpheE2NHGAuhd8Q/edit?slide=id.p1#slide=id.p1) (Shawn McKee)
 -   2025-11-26 - Cancelled (Day Before Thansgiving)
 -   2025-12-03 - Town Hall
 -   2025-12-10 - Production & Collaboration Services (Ken Herner/Pascal Paschos)
