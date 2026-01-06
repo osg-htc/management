@@ -91,9 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2025-12-17 - Research Facilitation (Christina Koch)
--   2025-12-24 - Cancelled (Christmas Eve)
--   2025-12-31 - Cancelled (New Year's Eve)
 -   2026-01-07 - Operations (Jeff Dost)
 -   2026-01-14 - Town Hall
 -   2026-01-21 - Security (Mark Krenz)
@@ -106,6 +103,9 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2025-12-31 - Cancelled (New Year's Eve)
+-   2025-12-24 - Cancelled (Christmas Eve)
+-   2025-12-17 - Research Facilitation (Christina Koch)
 -   2025-12-10 - Production & Collaboration Services (Ken Herner/Pascal Paschos)
 -   2025-12-03 - Cancelled (PIs unavailable for Town Hall)
 -   2025-11-26 - Cancelled (Day Before Thansgiving)
