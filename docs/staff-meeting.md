@@ -91,18 +91,18 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2026-01-07 - Operations (Jeff Dost)
--   2026-01-14 - Town Hall
--   2026-01-21 - Security (Mark Krenz)
--   2026-01-28 - Release (Tim Theisen)
--   2026-02-04 - HTCSS (Todd Tannenbaum)
--   2026-02-11 - Town Hall
+-   2026-02-11 - Town Hall (Pelican, OSDF, and CC* PI Workshop)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2026-02-04 - HTCSS (Todd Tannenbaum)
+-   2026-01-28 - Release (Tim Theisen)
+-   2026-01-21 - Security (Mark Krenz)
+-   2026-01-14 - Cancelled (PIs unavailable for Town Hall)
+-   2026-01-07 - Operations (Jeff Dost)
 -   2025-12-31 - Cancelled (New Year's Eve)
 -   2025-12-24 - Cancelled (Christmas Eve)
 -   2025-12-17 - Research Facilitation (Christina Koch)
