@@ -91,13 +91,26 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2026-02-11 - Town Hall (Pelican, OSDF, and CC* PI Workshop)
+-   2026-02-18 - Software (Brian Lin)
+-   2026-02-25 - Network Monitoring (Shawn McKee)
+-   2026-03-04 - Campus Services (Tim Cartwright)
+-   2026-03-11 - Town Hall
+-   2026-03-18 - Machine Learning (Ian Ross)
+-   2026-03-25 - Pelican (Brian Bockelman)
+-   2026-04-01 - Production/Collaboration Support (Ken Herner/Pascal Paschos)
+-   2026-04-08 - Town Hall
+-   2026-04-15 - Operations (Jeff Dost)
+-   2026-04-22 - Research Facilitation (Christina Koch)
+-   2026-04-29 - Release (Tim Theisen)
+-   2026-05-06 - Town Hall
+-   2026-05-13 - HTCSS (Todd Tannenbaum)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2026-02-11 - Town Hall (Pelican, OSDF, and CC* PI Workshop)
 -   2026-02-04 - HTCSS (Todd Tannenbaum)
 -   2026-01-28 - [Release, update](https://docs.google.com/presentation/d/1LJyc9idEHwWCLPp1JEKQwp9vPPntyqXVoHoVznmqILE/) (Tim Theisen)
 -   2026-01-21 - Security (Mark Krenz)
