@@ -38,7 +38,7 @@ Current Executive Team members:
 * Mark Neubauer, University of Illinois at Urbana-Champaign, HEP representative
 * Rob Gardner, University of Chicago, OSG Collaboration Support
 * Tim Cartwright, University of Wisconsin&ndash;Madison, OSG Campus Coordinator
-* Eric Lancon, Brookhaven National Laboratory, Nuclear Physics representative
+
 
 
 ## Management Activities
