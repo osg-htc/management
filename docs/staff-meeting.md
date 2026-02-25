@@ -92,7 +92,7 @@ of a special topic, which will be announced in advance.
 ### Upcoming Meetings
 
 -   2026-02-18 - Software (Brian Lin)
--   2026-02-25 - Network Monitoring (Shawn McKee)
+-   2026-02-25 - [Network Monitoring](https://docs.google.com/presentation/d/1RY5kYECiLA1zscP3VMmAsuQyWl5j_t7EYc5nyE-tBoU/edit?slide=id.p1#slide=id.p1) (Shawn McKee)
 -   2026-03-04 - Campus Services (Tim Cartwright)
 -   2026-03-11 - Town Hall
 -   2026-03-18 - Machine Learning (Ian Ross)
