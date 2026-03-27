@@ -91,9 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2026-03-18 - Machine Learning (Ian Ross)
--   2026-03-25 - Cancelled (Speaker unavailable)
--   2026-04-01 - Production/Collaboration Support (Ken Herner/Pascal Paschos)
+-   2026-04-01 - Cancelled (Combining planned talk with Town Hall)
 -   2026-04-08 - Town Hall
 -   2026-04-15 - Operations (Jeff Dost)
 -   2026-04-22 - Research Facilitation (Christina Koch)
@@ -107,6 +105,8 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2026-03-25 - Cancelled (Speaker unavailable)
+-   2026-03-18 - Machine Learning (Ian Ross)
 -   2026-03-11 - Cancelled (PIs unavailable for Town Hall)
 -   2026-03-04 - Campus Services (Tim Cartwright)
 -   2026-02-25 - Network Monitoring (Shawn McKee)
