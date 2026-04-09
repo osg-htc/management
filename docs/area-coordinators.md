@@ -9,7 +9,6 @@ The current Area Coordinators are:
 
 | OSG Area | Area Coordinator |
 | :------- | :--------------- |
-| [Collaboration Support](https://osg-htc.org/collaboration-support/) | Pascal Paschos, University of Chicago |
 | [HTCondor Software Suite](https://htcondor.org) | Todd Tannenbaum, University of Wisconsin&ndash;Madison |
 | [Network Monitoring](https://osg-htc.org/networking/) | Shawn McKee, University of Michigan |
 | [Operations](https://osg-htc.org/operations/) | Jeff Dost, University of California San Diego |
