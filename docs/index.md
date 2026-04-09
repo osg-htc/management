@@ -33,7 +33,6 @@ Current Executive Team members:
 * Derek Weitzel, University of Nebraska–Lincoln, Campus, NRP, and HEP representative
 * Jérôme Lauret, Brookhaven National Laboratory, Nuclear Physics representative
 * Mark Krenz, Indiana University, OSG Security lead
-* Lisa Goodenough, Fermi National Accelerator Laboratory, Fermilab representative
 * Liz Sexton-Kennedy, Fermi National Accelerator Laboratory, Fermilab representative, OSG Council chair
 * Mark Neubauer, University of Illinois at Urbana-Champaign, HEP representative
 * Rob Gardner, University of Chicago, OSG Collaboration Support
