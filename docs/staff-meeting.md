@@ -97,7 +97,7 @@ of a special topic, which will be announced in advance.
 -   2026-05-06 - Town Hall
 -   2026-05-13 - HTCSS (Todd Tannenbaum)
 -   2026-05-20 - Pelican (Brian Bockelman)
--   2026-04-15 - Operations (Jeff Dost)
+-   2026-05-27 - Operations (Jeff Dost)
 
 ### Past Meetings
 
