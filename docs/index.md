@@ -25,8 +25,8 @@ Project, as well as contributions from OSG Consortium members.
 
 Current Executive Team members:
 
-* Frank Würthwein, University of California San Diego, OSG Executive Director
-* Peter Couvares, LIGO laboratory - Caltech, OSG Executive Director-Elect
+* Peter Couvares, LIGO laboratory - Caltech, OSG Executive Director
+* Frank Würthwein, University of California San Diego, Former OSG Executive Director
 * Miron Livny, University of Wisconsin&ndash;Madison, OSG Technical Director and PI
 * Brian Bockelman, Morgridge Institute for Research, OSG Services and Technology lead
 * Christina Koch, University of Wisconsin&ndash;Madison, OSG Research Facilitation lead
