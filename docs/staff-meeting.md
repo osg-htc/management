@@ -91,15 +91,16 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2026-05-13 - HTCSS (Todd Tannenbaum)
--   2026-05-20 - Pelican (Brian Bockelman)
--   2026-05-27 - Operations (Jeff Dost)
+- To be added
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2026-05-27 - Operations (Jeff Dost)
+-   2026-05-20 - Pelican (Brian Bockelman)
+-   2026-05-13 - HTCSS (Todd Tannenbaum)
 -   2026-05-06 - Town Hall (Copy Fail)
 -   2026-04-29 - Release (Tim Theisen)
 -   2026-04-22 - Research Facilitation (Christina Koch)
