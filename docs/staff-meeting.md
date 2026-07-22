@@ -110,7 +110,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
--   2026-07-01 - Machine Learning (Ian Ross)
+-   2026-07-01 - [Machine Learning + Using Agents](https://docs.google.com/presentation/d/17duTMu0i-9TeFVZqBn4S-lImQTjFgjeRrSSyAfhui7Q) (Ian Ross)
 -   2026-06-24 - Software (Brian Lin)
 
 -   2026-06-17 - Town Hall (HTC26)
@@ -126,7 +126,7 @@ Blank lines separate cycles of team presentations.
 -   2026-04-08 - Town Hall (Collaborations, Brian Bockelman) and Production Support (Ken Herner)
 -   2026-04-01 - Cancelled (Combining planned talk with Town Hall)
 -   2026-03-25 - Cancelled (Speaker unavailable)
--   2026-03-18 - Machine Learning (Ian Ross)
+-   2026-03-18 - [Machine Learning](https://docs.google.com/presentation/d/1G4iqZaggVjOqm4ZNwyz9pbfULP0RUxUiDZYdgnPKJoM/) (Ian Ross)
 -   2026-03-11 - Cancelled (PIs unavailable for Town Hall)
 -   2026-03-04 - Campus Services (Tim Cartwright)
 -   2026-02-25 - Network Monitoring (Shawn McKee)
