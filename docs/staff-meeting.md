@@ -91,9 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2026-07-08 - Cancelled
--   2026-07-15 - Cancelled (OSG School)
--   2026-07-22 - Town Hall
 -   2026-07-29 - Network Monitoring (Shawn McKee)
 -   2026-08-05 - Campus Services (Tim Cartwright)
 -   2026-08-12 - Pelican (Brian Bockelman)
@@ -110,6 +107,9 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2026-07-22 - Town Hall (FabAID)
+-   2026-07-15 - Cancelled (OSG School)
+-   2026-07-08 - Cancelled
 -   2026-07-01 - Machine Learning (Ian Ross)
 -   2026-06-24 - Software (Brian Lin)
 
