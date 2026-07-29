@@ -91,7 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2026-07-29 - Network Monitoring (Shawn McKee)
+-   2026-07-29 - [Network Monitoring](https://docs.google.com/presentation/d/1IvJR8wk2_gxTRIpS_7QbelYAQ366OjBEQIQ0pqJIFFs/edit?usp=sharing/) (Shawn McKee)
 -   2026-08-05 - Campus Services (Tim Cartwright)
 -   2026-08-12 - Pelican (Brian Bockelman)
 -   2026-08-19 - Town Hall
