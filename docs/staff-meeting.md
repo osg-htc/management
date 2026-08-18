@@ -91,8 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2026-08-12 - Cancelled (Speaker Unavailable)
--   2026-08-19 - Town Hall
 -   2026-08-26 - Production Support (Ken Herner)
 -   2026-09-02 - Research Facilitation (Christina Koch)
 -   2026-09-09 - Release (Tim Theisen)
@@ -105,6 +103,8 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2026-08-19 - Cancelled (Speaker Unavailable)
+-   2026-08-12 - Cancelled (Speaker Unavailable)
 -   2026-08-05 - Campus Services (Tim Cartwright)
 -   2026-07-29 - [Network Monitoring](https://docs.google.com/presentation/d/1IvJR8wk2_gxTRIpS_7QbelYAQ366OjBEQIQ0pqJIFFs/edit?usp=sharing/) (Shawn McKee)
 -   2026-07-22 - Town Hall (FabAID)
