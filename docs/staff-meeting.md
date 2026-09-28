@@ -91,18 +91,19 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2026-08-26 - Production Support (Ken Herner)
--   2026-09-02 - Research Facilitation (Christina Koch)
--   2026-09-09 - [Release, update](https://docs.google.com/presentation/d/1THZdQovRrk3EOJmUirOcqf7KF2HzrxRnBDjhnEs8w5Q/) (Tim Theisen)
--   2026-09-16 - Town Hall
--   2026-09-23 - HTCSS (Todd Tannenbaum)
--   2026-09-30 - Operations (Jeff Dost)
+-   2026-09-30 - Cancelled (Speaker Unavailable)
+-   2026-10-07 - Operations (Jeff Dost)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2026-09-23 - HTCSS (Todd Tannenbaum)
+-   2026-09-16 - Town Hall (PI Retreat)
+-   2026-09-09 - [Release, update](https://docs.google.com/presentation/d/1THZdQovRrk3EOJmUirOcqf7KF2HzrxRnBDjhnEs8w5Q/) (Tim Theisen)
+-   2026-09-02 - Research Facilitation (Christina Koch)
+-   2026-08-26 - Production Support and Collaborations (Ken Herner and Jason Patton)
 -   2026-08-19 - Cancelled (Speaker Unavailable)
 -   2026-08-12 - Cancelled (Speaker Unavailable)
 -   2026-08-05 - Campus Services (Tim Cartwright)
