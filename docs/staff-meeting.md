@@ -93,7 +93,7 @@ of a special topic, which will be announced in advance.
 
 -   2026-08-26 - Production Support (Ken Herner)
 -   2026-09-02 - Research Facilitation (Christina Koch)
--   2026-09-09 - Release (Tim Theisen)
+-   2026-09-09 - [Release, update](https://docs.google.com/presentation/d/1THZdQovRrk3EOJmUirOcqf7KF2HzrxRnBDjhnEs8w5Q/) (Tim Theisen)
 -   2026-09-16 - Town Hall
 -   2026-09-23 - HTCSS (Todd Tannenbaum)
 -   2026-09-30 - Operations (Jeff Dost)
