@@ -91,14 +91,34 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2026-09-30 - Cancelled (Speaker Unavailable)
--   2026-10-07 - Operations (Jeff Dost)
+-   2026-10-14 - Operations (Jeff Dost)
+-   2026-10-21 - Metadata (AnHai Doan)
+-   2026-10-28 - Small Institutions (Jason Simms)
+-   2026-11-04 - Town Hall (Brian Bockelman - Data Access Point)
+-   2026-11-11 - OSG Software (Brian Lin)
+-   2026-11-18 - OSG ED Update (Peter Couvares)
+-   2026-11-25 - Cancelled (Thanksgiving)
+-   2026-12-02 - Machine Learning (Ian Ross + Tony Gitter)
+-   2026-12-09 - Town Hall
+-   2026-12-16 - Network Monitoring (Shawn McKee)
+-   2026-12-23 - Cancelled (Christmas)
+-   2026-12-30 - Cancelled (New Years)
+-   2027-01-06 - Campus Services (Tim Cartwright)
+-   2027-01-13 - Pelican (Brian Bockelman)
+-   2027-01-20 - Town Hall
+-   2027-01-27 - Research Facilitation (Christina Koch)
+-   2027-02-03 - Production + Collaboration Support (Ken Herner and Jason Patton)
+-   2027-02-10 - Release (Tim Theisen)
+-   2027-02-17 - Town Hall
+-   2027-02-24 - HTCSS (Todd Tannenbaum)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2026-10-07 - Security (Mark Krenz)
+-   2026-09-30 - Cancelled (Speaker Unavailable)
 -   2026-09-23 - HTCSS (Todd Tannenbaum)
 -   2026-09-16 - Town Hall (PI Retreat)
 -   2026-09-09 - [Release, update](https://docs.google.com/presentation/d/1THZdQovRrk3EOJmUirOcqf7KF2HzrxRnBDjhnEs8w5Q/) (Tim Theisen)
