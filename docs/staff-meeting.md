@@ -91,7 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2026-10-14 - Operations (Jeff Dost)
+-   2026-10-14 - [Operations](https://docs.google.com/presentation/d/1slvuUAmBbgBrC75XXC3WBax-o_FGU0J-pvm3E91jvLc/) (Jeff Dost)
 -   2026-10-21 - Cancelled
 -   2026-10-28 - Small Institutions (Jason Simms)
 -   2026-11-04 - Town Hall (Brian Bockelman - Data Access Point)
