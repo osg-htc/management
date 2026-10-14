@@ -92,7 +92,7 @@ of a special topic, which will be announced in advance.
 ### Upcoming Meetings
 
 -   2026-10-14 - Operations (Jeff Dost)
--   2026-10-21 - Metadata (AnHai Doan)
+-   2026-10-21 - Cancelled
 -   2026-10-28 - Small Institutions (Jason Simms)
 -   2026-11-04 - Town Hall (Brian Bockelman - Data Access Point)
 -   2026-11-11 - OSG Software (Brian Lin)
@@ -104,7 +104,7 @@ of a special topic, which will be announced in advance.
 -   2026-12-23 - Cancelled (Christmas)
 -   2026-12-30 - Cancelled (New Years)
 -   2027-01-06 - Campus Services (Tim Cartwright)
--   2027-01-13 - Pelican (Brian Bockelman)
+-   2027-01-13 - Metadata (AnHai Doan)
 -   2027-01-20 - Town Hall
 -   2027-01-27 - Research Facilitation (Christina Koch)
 -   2027-02-03 - Production + Collaboration Support (Ken Herner and Jason Patton)
