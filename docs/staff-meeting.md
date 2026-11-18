@@ -91,11 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2026-10-14 - [Operations](https://docs.google.com/presentation/d/1slvuUAmBbgBrC75XXC3WBax-o_FGU0J-pvm3E91jvLc/) (Jeff Dost)
--   2026-10-21 - Cancelled
--   2026-10-28 - Small Institutions (Jason Simms)
--   2026-11-04 - Town Hall (Brian Bockelman - Data Access Point)
--   2026-11-11 - OSG Software (Brian Lin)
 -   2026-11-18 - OSG ED Update (Peter Couvares)
 -   2026-11-25 - Cancelled (Thanksgiving)
 -   2026-12-02 - Machine Learning (Ian Ross + Tony Gitter)
@@ -117,7 +112,15 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2026-11-11 - OSG Software (Brian Lin)
+-   2026-11-04 - Town Hall (Brian Bockelman - Data Access Point)
+-   2026-10-28 - Teaching-Centric Institutions (Jason Simms)
+-   2026-10-21 - Cancelled (Speaker Unavailable)
+-   2026-10-14 - [Operations](https://docs.google.com/presentation/d/1slvuUAmBbgBrC75XXC3WBax-o_FGU0J-pvm3E91jvLc/) (Jeff Dost)
 -   2026-10-07 - Security (Mark Krenz)
+
+<div style="height: 0.5ex"></div>
+
 -   2026-09-30 - Cancelled (Speaker Unavailable)
 -   2026-09-23 - HTCSS (Todd Tannenbaum)
 -   2026-09-16 - Town Hall (PI Retreat)
@@ -133,6 +136,8 @@ Blank lines separate cycles of team presentations.
 -   2026-07-08 - Cancelled
 -   2026-07-01 - [Machine Learning + Using Agents](https://docs.google.com/presentation/d/17duTMu0i-9TeFVZqBn4S-lImQTjFgjeRrSSyAfhui7Q) (Ian Ross)
 -   2026-06-24 - Software (Brian Lin)
+
+<div style="height: 0.5ex"></div>
 
 -   2026-06-17 - Town Hall (HTC26)
 -   2026-06-10 - Cancelled (HTC26)
@@ -152,6 +157,8 @@ Blank lines separate cycles of team presentations.
 -   2026-03-04 - Campus Services (Tim Cartwright)
 -   2026-02-25 - Network Monitoring (Shawn McKee)
 -   2026-02-18 - Software (Brian Lin)
+
+<div style="height: 0.5ex"></div>
 
 -   2026-02-11 - Town Hall (Pelican, OSDF, and CC* PI Workshop)
 -   2026-02-04 - HTCSS (Todd Tannenbaum)
