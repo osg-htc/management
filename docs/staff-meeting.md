@@ -91,7 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2026-11-18 - OSG ED Update (Peter Couvares)
+-   2026-11-18 - [OSG ED Update](https://docs.google.com/presentation/d/1RMxuGO3LtDMcIFu9yoPhjlGuIJo0wNM6/edit?usp=drive_web&ouid=113776610310522774757&rtpof=true) (Peter Couvares)
 -   2026-11-25 - Cancelled (Thanksgiving)
 -   2026-12-02 - Machine Learning (Ian Ross + Tony Gitter)
 -   2026-12-09 - Town Hall
