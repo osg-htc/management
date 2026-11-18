@@ -112,7 +112,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
--   2026-11-11 - OSG Software (Brian Lin)
+-   2026-11-11 - [Discussion: AI Best Practices for Non-Developers](https://docs.google.com/presentation/d/1Pcae1JUsPYqsqJyGevOXMqZRSZlZEDZrm3ZMh2EZIbs/edit?slide=id.p#slide=id.p) (Brian Lin)
 -   2026-11-04 - Town Hall (Brian Bockelman - [Data Access Point](https://drive.google.com/drive/folders/1eE5a_hmqnyNm4-8qQeTt3eVRp3RtZyP-))
 -   2026-10-28 - Teaching-Centric Institutions (Jason Simms)
 -   2026-10-21 - Cancelled (Speaker Unavailable)
