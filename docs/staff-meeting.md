@@ -122,7 +122,7 @@ Blank lines separate cycles of team presentations.
 <div style="height: 0.5ex"></div>
 
 -   2026-09-30 - Cancelled (Speaker Unavailable)
--   2026-09-23 - HTCSS (Todd Tannenbaum)
+-   2026-09-23 - HTCSS - [Self-Service AP Annex](https://indico.cern.ch/event/1659396/contributions/7264604/attachments/3353190/6012792/Annex-EU2026.pptx) (Todd Tannenbaum)
 -   2026-09-16 - Town Hall (PI Retreat)
 -   2026-09-09 - [Release, update](https://docs.google.com/presentation/d/1THZdQovRrk3EOJmUirOcqf7KF2HzrxRnBDjhnEs8w5Q/) (Tim Theisen)
 -   2026-09-02 - [Research Facilitation](https://docs.google.com/presentation/d/1OD0Dr34B6s4Xo_ykCvDILCs6oLEnIFVt/edit?usp=drive_web&ouid=113776610310522774757&rtpof=true) (Christina Koch)
