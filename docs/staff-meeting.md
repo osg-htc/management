@@ -126,7 +126,7 @@ Blank lines separate cycles of team presentations.
 -   2026-09-16 - Town Hall (PI Retreat)
 -   2026-09-09 - [Release, update](https://docs.google.com/presentation/d/1THZdQovRrk3EOJmUirOcqf7KF2HzrxRnBDjhnEs8w5Q/) (Tim Theisen)
 -   2026-09-02 - [Research Facilitation](https://docs.google.com/presentation/d/1OD0Dr34B6s4Xo_ykCvDILCs6oLEnIFVt/edit?usp=drive_web&ouid=113776610310522774757&rtpof=true) (Christina Koch)
--   2026-08-26 - Production Support and Collaborations (Ken Herner and Jason Patton)
+-   2026-08-26 - Production Support and [Collaborations](https://docs.google.com/presentation/d/1TUQDZCAQibHnxhYGFvBQhSyLp-jlPTB8/edit?slide=id.p1#slide=id.p1) (Ken Herner and Jason Patton)
 -   2026-08-19 - Cancelled (Speaker Unavailable)
 -   2026-08-12 - Cancelled (Speaker Unavailable)
 -   2026-08-05 - Campus Services (Tim Cartwright)
