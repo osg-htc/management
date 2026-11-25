@@ -129,7 +129,7 @@ Blank lines separate cycles of team presentations.
 -   2026-08-26 - Production Support and [Collaborations](https://docs.google.com/presentation/d/1TUQDZCAQibHnxhYGFvBQhSyLp-jlPTB8/edit?slide=id.p1#slide=id.p1) (Ken Herner and Jason Patton)
 -   2026-08-19 - Cancelled (Speaker Unavailable)
 -   2026-08-12 - Cancelled (Speaker Unavailable)
--   2026-08-05 - Campus Services (Tim Cartwright)
+-   2026-08-05 - [Campus Services](https://drive.google.com/drive/folders/1eE5a_hmqnyNm4-8qQeTt3eVRp3RtZyP-) (Tim Cartwright)
 -   2026-07-29 - [Network Monitoring](https://docs.google.com/presentation/d/1IvJR8wk2_gxTRIpS_7QbelYAQ366OjBEQIQ0pqJIFFs/edit?usp=sharing/) (Shawn McKee)
 -   2026-07-22 - Town Hall (FabAID)
 -   2026-07-15 - Cancelled (OSG School)
